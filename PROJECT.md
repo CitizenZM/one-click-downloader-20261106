@@ -5,7 +5,7 @@
 | Created | 20261106 |
 | Type | generic |
 | Origin | new |
-| Repo | (pending) |
-| Deploy | (pending) |
-| Production URL | (pending) |
+| Repo | https://github.com/CitizenZM/one-click-downloader-20261106 |
+| Deploy | none (non-web) |
+| Production URL | — |
 | Status | active |
